@@ -1,0 +1,6 @@
+[submodule "auditor"]
+	path = auditor
+	url = https://github.com/carlotiii30/Sentinel-Auditor
+[submodule "architect"]
+	path = architect
+	url = https://github.com/carlotiii30/Sentinel-Architect
